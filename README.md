@@ -1,4 +1,4 @@
-# InTime - AWS Infrastructure
+# Work - AWS Infrastructure Demo
 
 ## Tools:
 1. AWS
